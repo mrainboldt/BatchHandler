@@ -1,5 +1,5 @@
 # BatchHandler
-A way to let Admins manage their batch classes.
+A way to let Salesforce Admins manage their batch classes.
 
 ## A few notes...
 ### How to call a class implementing BatchHandler
